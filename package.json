@@ -1,0 +1,20 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.16.1"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Server.js"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}

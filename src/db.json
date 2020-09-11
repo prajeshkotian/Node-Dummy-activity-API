@@ -1,0 +1,71 @@
+{
+  "ok": [ true ],
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM",
+          "title":  "Team Meeting"
+        },
+        {
+          "start_time": "Sep 10 2020  11:11AM",
+          "end_time": "Sep 10 2020 2:00PM",
+          "title": "Design Call"
+        },
+        {
+          "start_time": "Sep 11 2020  5:33PM",
+          "end_time": "Sep 11 2020 8:02PM",
+          "title": "Testing Call"
+        },
+        {
+          "start_time": "Sep 13 2020  5:33PM",
+          "end_time": "Sep 13 2020 8:02PM",
+          "title": "Design Call with Backend"
+        },
+        {
+          "start_time": "Sep 15 2020  5:33PM",
+          "end_time": "Sep 15 2020 8:02PM",
+          "title": "Testing Call Phase 2"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM",
+          "title": "Team Meeting"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM",
+          "title": "Team Meeting with CEO"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM",
+          "title": "GO call on Deployment"
+        },
+        {
+          "start_time": "Sep 16 2020  5:33PM",
+          "end_time": "Sep 16 2020 8:02PM",
+          "title": "Post Deployment Testing"
+        },
+        {
+          "start_time": "Sep 17 2020  2:33PM",
+          "end_time": "Sep 17 2020 5:00PM",
+          "title": "Post Deployment Testing Phase 2"
+        }
+      ]
+    }
+   
+      ]
+    }
+  
